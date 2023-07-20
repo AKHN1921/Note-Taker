@@ -1,6 +1,6 @@
 # Note-Taker
 This is the homework for unit 11; Express.js Challenge: Note Taker
-![starter-code](https://github.com/coding-boot-camp/miniature-eureka)
+[starter-code](https://github.com/coding-boot-camp/miniature-eureka)
 
 ## User Story
 AS A small business owner
