@@ -1,6 +1,6 @@
 # Note-Taker
 This is the homework for unit 11; Express.js Challenge: Note Taker
-[starter-code](https://github.com/coding-boot-camp/miniature-eureka)
+Here is the [starter-code](https://github.com/coding-boot-camp/miniature-eureka)
 
 ## User Story
 AS A small business owner
@@ -24,5 +24,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Mock-Up
 The following images show the web application's appearance and functionality:
+
 ![demo-img-1](Develop/images/11-express-homework-demo-01.png)
+
 ![demo-img-2](Develop/images/11-express-homework-demo-02.png)
+
